@@ -18,4 +18,4 @@ film isimlerini sıralayınız.
 ve rental_rate 2.99 olan verileri sıralayınız.
 
      select * from film
-      where (title like 'C%') and (length > 90) and (rental_rate=2.99)   
+     where (title like 'C%') and (length > 90) and (rental_rate=2.99)   
